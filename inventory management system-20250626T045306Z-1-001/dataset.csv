@@ -1,0 +1,51 @@
+ID,Name,Category,Quantity,Price,Total Value,Description,Created,Updated
+1,Laptop,Electronics,10,750.0,7500.0,High-performance laptop,2024-07-01 10:00,2024-07-01 12:00
+2,Office Chair,Furniture,25,120.0,3000.0,Ergonomic office chair,2024-07-02 09:00,2024-07-02 10:00
+3,Desk Lamp,Electronics,40,25.0,1000.0,LED desk lamp,2024-07-03 11:00,2024-07-03 12:00
+4,Whiteboard,Office Supplies,15,80.0,1200.0,Magnetic whiteboard,2024-07-04 14:00,2024-07-04 15:00
+5,Mouse,Electronics,50,15.0,750.0,Wireless mouse,2024-07-05 13:00,2024-07-05 14:00
+6,Keyboard,Electronics,35,30.0,1050.0,Mechanical keyboard,2024-07-06 12:30,2024-07-06 13:30
+7,Projector,Electronics,5,550.0,2750.0,Conference room projector,2024-07-07 16:00,2024-07-07 17:00
+8,Notebook,Office Supplies,100,2.0,200.0,College-ruled notebook,2024-07-08 10:00,2024-07-08 11:00
+9,Pen,Office Supplies,300,0.5,150.0,Ballpoint pen,2024-07-09 09:00,2024-07-09 10:00
+10,Headphones,Electronics,20,80.0,1600.0,Noise-canceling headphones,2024-07-10 15:00,2024-07-10 16:00
+11,Tablet,Electronics,12,450.0,5400.0,10-inch display tablet,2024-07-11 10:00,2024-07-11 12:00
+12,Printer,Electronics,8,250.0,2000.0,Color laser printer,2024-07-12 09:00,2024-07-12 11:00
+13,Scanner,Electronics,6,200.0,1200.0,Document scanner,2024-07-13 11:00,2024-07-13 13:00
+14,Standing Desk,Furniture,10,400.0,4000.0,Adjustable standing desk,2024-07-14 12:00,2024-07-14 14:00
+15,Conference Phone,Electronics,5,300.0,1500.0,Conference room phone,2024-07-15 10:00,2024-07-15 12:00
+16,Paper Shredder,Office Supplies,7,100.0,700.0,Heavy-duty shredder,2024-07-16 09:00,2024-07-16 10:30
+17,Bookcase,Furniture,4,250.0,1000.0,Wooden bookcase,2024-07-17 14:00,2024-07-17 15:30
+18,Desk Organizer,Office Supplies,50,10.0,500.0,Multi-compartment organizer,2024-07-18 11:00,2024-07-18 12:00
+19,Coffee Maker,Appliances,3,120.0,360.0,Office coffee machine,2024-07-19 10:00,2024-07-19 11:00
+20,Water Dispenser,Appliances,2,200.0,400.0,Cold and hot dispenser,2024-07-20 09:00,2024-07-20 10:00
+21,Router,Electronics,15,90.0,1350.0,WiFi router,2024-07-21 13:00,2024-07-21 14:00
+22,Switch,Electronics,10,70.0,700.0,Network switch,2024-07-22 12:00,2024-07-22 13:00
+23,External Hard Drive,Electronics,20,100.0,2000.0,1TB storage drive,2024-07-23 15:00,2024-07-23 16:00
+24,Monitor,Electronics,18,200.0,3600.0,27-inch display monitor,2024-07-24 14:00,2024-07-24 15:00
+25,Graphics Tablet,Electronics,7,300.0,2100.0,Drawing tablet,2024-07-25 11:00,2024-07-25 12:00
+26,Label Printer,Electronics,5,150.0,750.0,Shipping label printer,2024-07-26 09:00,2024-07-26 10:00
+27,Smartphone,Electronics,20,500.0,10000.0,Android smartphone,2024-07-27 12:00,2024-07-27 13:00
+28,Webcam,Electronics,25,70.0,1750.0,HD webcam,2024-07-28 10:00,2024-07-28 11:00
+29,Speaker,Electronics,12,85.0,1020.0,Bluetooth speaker,2024-07-29 09:00,2024-07-29 10:00
+30,Surge Protector,Electronics,30,25.0,750.0,6-outlet surge protector,2024-07-30 14:00,2024-07-30 15:00
+31,HDMI Cable,Electronics,100,8.0,800.0,6-foot HDMI cable,2024-07-31 11:00,2024-07-31 12:00
+32,USB Hub,Electronics,40,20.0,800.0,4-port USB hub,2024-08-01 10:00,2024-08-01 11:00
+33,Flash Drive,Electronics,200,5.0,1000.0,32GB USB drive,2024-08-02 09:00,2024-08-02 10:00
+34,Power Bank,Electronics,50,30.0,1500.0,10,000mAh charger,2024-08-03 12:00,2024-08-03 13:00
+35,VR Headset,Electronics,3,400.0,1200.0,Virtual reality headset,2024-08-04 14:00,2024-08-04 15:00
+36,Smartwatch,Electronics,18,250.0,4500.0,Fitness smartwatch,2024-08-05 11:00,2024-08-05 12:00
+37,Microphone,Electronics,10,100.0,1000.0,Podcast microphone,2024-08-06 09:00,2024-08-06 10:00
+38,Tripod,Photography,15,50.0,750.0,Aluminum tripod,2024-08-07 10:00,2024-08-07 11:00
+39,Camera Lens,Photography,5,500.0,2500.0,50mm prime lens,2024-08-08 13:00,2024-08-08 14:00
+40,Lighting Kit,Photography,4,350.0,1400.0,Studio lighting set,2024-08-09 12:00,2024-08-09 13:00
+41,Drone,Electronics,3,800.0,2400.0,4K camera drone,2024-08-10 11:00,2024-08-10 12:00
+42,Gaming Chair,Furniture,6,300.0,1800.0,Ergonomic gaming chair,2024-08-11 09:00,2024-08-11 10:00
+43,Game Console,Electronics,8,500.0,4000.0,Next-gen console,2024-08-12 14:00,2024-08-12 15:00
+44,Graphics Card,Electronics,4,700.0,2800.0,High-end GPU,2024-08-13 10:00,2024-08-13 11:00
+45,Processor,Electronics,5,350.0,1750.0,Desktop CPU,2024-08-14 11:00,2024-08-14 12:00
+46,RAM,Electronics,10,80.0,800.0,16GB memory module,2024-08-15 12:00,2024-08-15 13:00
+47,Motherboard,Electronics,6,200.0,1200.0,ATX motherboard,2024-08-16 14:00,2024-08-16 15:00
+48,SSD,Electronics,20,150.0,3000.0,1TB solid-state drive,2024-08-17 10:00,2024-08-17 11:00
+49,Power Supply,Electronics,8,120.0,960.0,650W PSU,2024-08-18 09:00,2024-08-18 10:00
+50,PC Case,Electronics,5,100.0,500.0,Mid-tower case,2024-08-19 11:00,2024-08-19 12:00

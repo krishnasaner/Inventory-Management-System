@@ -1,51 +1,186 @@
-ID,Name,Category,Quantity,Price,Total Value,Description,Created,Updated
-1,Laptop,Electronics,10,750.0,7500.0,High-performance laptop,2024-07-01 10:00,2024-07-01 12:00
-2,Office Chair,Furniture,25,120.0,3000.0,Ergonomic office chair,2024-07-02 09:00,2024-07-02 10:00
-3,Desk Lamp,Electronics,40,25.0,1000.0,LED desk lamp,2024-07-03 11:00,2024-07-03 12:00
-4,Whiteboard,Office Supplies,15,80.0,1200.0,Magnetic whiteboard,2024-07-04 14:00,2024-07-04 15:00
-5,Mouse,Electronics,50,15.0,750.0,Wireless mouse,2024-07-05 13:00,2024-07-05 14:00
-6,Keyboard,Electronics,35,30.0,1050.0,Mechanical keyboard,2024-07-06 12:30,2024-07-06 13:30
-7,Projector,Electronics,5,550.0,2750.0,Conference room projector,2024-07-07 16:00,2024-07-07 17:00
-8,Notebook,Office Supplies,100,2.0,200.0,College-ruled notebook,2024-07-08 10:00,2024-07-08 11:00
-9,Pen,Office Supplies,300,0.5,150.0,Ballpoint pen,2024-07-09 09:00,2024-07-09 10:00
-10,Headphones,Electronics,20,80.0,1600.0,Noise-canceling headphones,2024-07-10 15:00,2024-07-10 16:00
-11,Tablet,Electronics,12,450.0,5400.0,10-inch display tablet,2024-07-11 10:00,2024-07-11 12:00
-12,Printer,Electronics,8,250.0,2000.0,Color laser printer,2024-07-12 09:00,2024-07-12 11:00
-13,Scanner,Electronics,6,200.0,1200.0,Document scanner,2024-07-13 11:00,2024-07-13 13:00
-14,Standing Desk,Furniture,10,400.0,4000.0,Adjustable standing desk,2024-07-14 12:00,2024-07-14 14:00
-15,Conference Phone,Electronics,5,300.0,1500.0,Conference room phone,2024-07-15 10:00,2024-07-15 12:00
-16,Paper Shredder,Office Supplies,7,100.0,700.0,Heavy-duty shredder,2024-07-16 09:00,2024-07-16 10:30
-17,Bookcase,Furniture,4,250.0,1000.0,Wooden bookcase,2024-07-17 14:00,2024-07-17 15:30
-18,Desk Organizer,Office Supplies,50,10.0,500.0,Multi-compartment organizer,2024-07-18 11:00,2024-07-18 12:00
-19,Coffee Maker,Appliances,3,120.0,360.0,Office coffee machine,2024-07-19 10:00,2024-07-19 11:00
-20,Water Dispenser,Appliances,2,200.0,400.0,Cold and hot dispenser,2024-07-20 09:00,2024-07-20 10:00
-21,Router,Electronics,15,90.0,1350.0,WiFi router,2024-07-21 13:00,2024-07-21 14:00
-22,Switch,Electronics,10,70.0,700.0,Network switch,2024-07-22 12:00,2024-07-22 13:00
-23,External Hard Drive,Electronics,20,100.0,2000.0,1TB storage drive,2024-07-23 15:00,2024-07-23 16:00
-24,Monitor,Electronics,18,200.0,3600.0,27-inch display monitor,2024-07-24 14:00,2024-07-24 15:00
-25,Graphics Tablet,Electronics,7,300.0,2100.0,Drawing tablet,2024-07-25 11:00,2024-07-25 12:00
-26,Label Printer,Electronics,5,150.0,750.0,Shipping label printer,2024-07-26 09:00,2024-07-26 10:00
-27,Smartphone,Electronics,20,500.0,10000.0,Android smartphone,2024-07-27 12:00,2024-07-27 13:00
-28,Webcam,Electronics,25,70.0,1750.0,HD webcam,2024-07-28 10:00,2024-07-28 11:00
-29,Speaker,Electronics,12,85.0,1020.0,Bluetooth speaker,2024-07-29 09:00,2024-07-29 10:00
-30,Surge Protector,Electronics,30,25.0,750.0,6-outlet surge protector,2024-07-30 14:00,2024-07-30 15:00
-31,HDMI Cable,Electronics,100,8.0,800.0,6-foot HDMI cable,2024-07-31 11:00,2024-07-31 12:00
-32,USB Hub,Electronics,40,20.0,800.0,4-port USB hub,2024-08-01 10:00,2024-08-01 11:00
-33,Flash Drive,Electronics,200,5.0,1000.0,32GB USB drive,2024-08-02 09:00,2024-08-02 10:00
-34,Power Bank,Electronics,50,30.0,1500.0,10,000mAh charger,2024-08-03 12:00,2024-08-03 13:00
-35,VR Headset,Electronics,3,400.0,1200.0,Virtual reality headset,2024-08-04 14:00,2024-08-04 15:00
-36,Smartwatch,Electronics,18,250.0,4500.0,Fitness smartwatch,2024-08-05 11:00,2024-08-05 12:00
-37,Microphone,Electronics,10,100.0,1000.0,Podcast microphone,2024-08-06 09:00,2024-08-06 10:00
-38,Tripod,Photography,15,50.0,750.0,Aluminum tripod,2024-08-07 10:00,2024-08-07 11:00
-39,Camera Lens,Photography,5,500.0,2500.0,50mm prime lens,2024-08-08 13:00,2024-08-08 14:00
-40,Lighting Kit,Photography,4,350.0,1400.0,Studio lighting set,2024-08-09 12:00,2024-08-09 13:00
-41,Drone,Electronics,3,800.0,2400.0,4K camera drone,2024-08-10 11:00,2024-08-10 12:00
-42,Gaming Chair,Furniture,6,300.0,1800.0,Ergonomic gaming chair,2024-08-11 09:00,2024-08-11 10:00
-43,Game Console,Electronics,8,500.0,4000.0,Next-gen console,2024-08-12 14:00,2024-08-12 15:00
-44,Graphics Card,Electronics,4,700.0,2800.0,High-end GPU,2024-08-13 10:00,2024-08-13 11:00
-45,Processor,Electronics,5,350.0,1750.0,Desktop CPU,2024-08-14 11:00,2024-08-14 12:00
-46,RAM,Electronics,10,80.0,800.0,16GB memory module,2024-08-15 12:00,2024-08-15 13:00
-47,Motherboard,Electronics,6,200.0,1200.0,ATX motherboard,2024-08-16 14:00,2024-08-16 15:00
-48,SSD,Electronics,20,150.0,3000.0,1TB solid-state drive,2024-08-17 10:00,2024-08-17 11:00
-49,Power Supply,Electronics,8,120.0,960.0,650W PSU,2024-08-18 09:00,2024-08-18 10:00
-50,PC Case,Electronics,5,100.0,500.0,Mid-tower case,2024-08-19 11:00,2024-08-19 12:00
+sku,name,category_id,description,unit,cost_price,selling_price,quantity_in_stock,minimum_stock_level,maximum_stock_level,reorder_point,reorder_quantity,location,brand,model,warranty_period,is_serialized,created_by
+ELEC001,Apple Laptop Pro-427,1,Apple Laptop (Pro-427) for electronics category,pcs,2450.00,3490.00,15,5,50,10,20,A1-01,Apple,Pro-427,24,TRUE,1
+ELEC002,Dell Laptop Ultra-318,1,Dell Laptop (Ultra-318) for electronics category,pcs,1990.00,2890.00,20,5,60,12,25,A1-02,Dell,Ultra-318,36,TRUE,1
+ELEC003,HP Desktop Max-512,1,HP Desktop (Max-512) for electronics category,pcs,1200.00,1650.00,18,8,40,10,15,A1-03,HP,Max-512,12,TRUE,1
+ELEC004,Apple Laptop Pro-128,1,Apple Laptop (Pro-128) for electronics category,pcs,2300.00,3250.00,12,5,50,8,18,A1-04,Apple,Pro-128,24,TRUE,1
+ELEC005,Dell Laptop Ultra-942,1,Dell Laptop (Ultra-942) for electronics category,pcs,2100.00,3050.00,22,8,60,15,22,A1-05,Dell,Ultra-942,36,TRUE,1
+ELEC006,HP Desktop Max-331,1,HP Desktop (Max-331) for electronics category,pcs,1250.00,1700.00,20,8,40,12,18,A1-06,HP,Max-331,12,TRUE,1
+ELEC007,Apple Laptop Pro-678,1,Apple Laptop (Pro-678) for electronics category,pcs,2550.00,3550.00,16,5,50,10,20,A1-07,Apple,Pro-678,24,TRUE,1
+ELEC008,Dell Laptop Ultra-415,1,Dell Laptop (Ultra-415) for electronics category,pcs,2050.00,2950.00,18,5,60,12,24,A1-08,Dell,Ultra-415,36,TRUE,1
+ELEC009,HP Desktop Max-208,1,HP Desktop (Max-208) for electronics category,pcs,1300.00,1750.00,15,8,40,10,16,A1-09,HP,Max-208,12,TRUE,1
+ELEC010,Apple Laptop Pro-834,1,Apple Laptop (Pro-834) for electronics category,pcs,2400.00,3450.00,14,5,50,9,19,A1-10,Apple,Pro-834,24,TRUE,1
+MON001,Samsung 4K Monitor Ultra-229,2,Samsung 4K Monitor (Ultra-229) for monitors & displays,pcs,350.00,520.00,25,10,70,15,30,B1-01,Samsung,Ultra-229,36,FALSE,1
+MON002,LG UltraWide Monitor Elite-746,2,LG UltraWide Monitor (Elite-746) for monitors & displays,pcs,420.00,599.00,22,8,60,14,20,B1-02,LG,Elite-746,24,FALSE,1
+MON003,Dell UltraSharp Monitor Pro-931,2,Dell UltraSharp Monitor (Pro-931) for monitors & displays,pcs,399.00,560.00,28,10,70,18,28,B1-03,Dell,Pro-931,36,FALSE,1
+MON004,ASUS Gaming Monitor Max-552,2,ASUS Gaming Monitor (Max-552) for monitors & displays,pcs,480.00,650.00,20,10,65,15,25,B1-04,ASUS,Max-552,24,FALSE,1
+MON005,HP Business Monitor Elite-310,2,HP Business Monitor (Elite-310) for monitors & displays,pcs,300.00,450.00,26,12,70,18,28,B1-05,HP,Elite-310,36,FALSE,1
+AUD001,Sony Wireless Headphones Air-684,3,Sony Wireless Headphones (Air-684) for audio equipment,pcs,150.00,240.00,40,15,100,20,30,C1-01,Sony,Air-684,24,FALSE,1
+AUD002,Bose Bluetooth Speaker Pro-885,3,Bose Bluetooth Speaker (Pro-885) for audio equipment,pcs,180.00,270.00,35,10,80,15,25,C1-02,Bose,Pro-885,12,FALSE,1
+AUD003,Apple Earbuds Max-513,3,Apple Earbuds (Max-513) for audio equipment,pcs,120.00,200.00,50,20,110,25,35,C1-03,Apple,Max-513,12,FALSE,1
+AUD004,JBL Portable Speaker Ultra-244,3,JBL Portable Speaker (Ultra-244) for audio equipment,pcs,90.00,150.00,60,25,120,30,40,C1-04,JBL,Ultra-244,24,FALSE,1
+AUD005,Sennheiser Studio Headphones Elite-192,3,Sennheiser Studio Headphones (Elite-192) for audio equipment,pcs,200.00,290.00,45,18,90,22,32,C1-05,Sennheiser,Elite-192,24,FALSE,1
+AUD006,Logitech USB Microphone Air-382,3,Logitech USB Microphone (Air-382) for audio equipment,pcs,85.00,140.00,38,15,80,20,28,C1-06,Logitech,Air-382,24,FALSE,1
+AUD007,Audio-Technica Headphones Max-418,3,Audio-Technica Headphones (Max-418) for audio equipment,pcs,110.00,180.00,44,18,90,22,30,C1-07,Audio-Technica,Max-418,24,FALSE,1
+AUD008,Rode Broadcast Mic Elite-625,3,Rode Broadcast Microphone (Elite-625) for audio equipment,pcs,140.00,220.00,32,12,70,18,26,C1-08,Rode,Elite-625,24,FALSE,1
+AUD009,Yamaha Studio Monitor Air-908,3,Yamaha Studio Monitor (Air-908) for audio equipment,pcs,170.00,260.00,28,10,60,15,22,C1-09,Yamaha,Air-908,36,FALSE,1
+AUD010,Focusrite Audio Interface Pro-312,3,Focusrite Audio Interface (Pro-312) for audio equipment,pcs,95.00,150.00,36,15,80,20,28,C1-10,Focusrite,Pro-312,24,FALSE,1
+INP001,Logitech Wireless Mouse Max-746,4,Logitech Wireless Mouse (Max-746) for input devices,pcs,60.00,95.00,90,35,150,45,65,D1-01,Logitech,Max-746,24,FALSE,1
+INP002,Apple Magic Keyboard Pro-214,4,Apple Magic Keyboard (Pro-214) for input devices,pcs,140.00,190.00,65,25,120,35,50,D1-02,Apple,Pro-214,12,FALSE,1
+INP003,Corsair Mechanical Keyboard Elite-732,4,Corsair Mechanical Keyboard (Elite-732) for input devices,pcs,150.00,210.00,42,18,80,25,35,D1-03,Corsair,Elite-732,24,FALSE,1
+INP004,Razer Gaming Mouse Ultra-902,4,Razer Gaming Mouse (Ultra-902) for input devices,pcs,65.00,99.00,88,35,150,45,65,D1-04,Razer,Ultra-902,24,FALSE,1
+INP005,SteelSeries Mechanical Keyboard Max-644,4,SteelSeries Mechanical Keyboard (Max-644) for input devices,pcs,175.00,240.00,28,12,50,18,25,D1-05,SteelSeries,Max-644,24,FALSE,1
+INP006,Logitech HD Webcam Pro-385,4,Logitech HD Webcam (Pro-385) for input devices,pcs,55.00,85.00,110,50,200,65,85,D1-06,Logitech,Pro-385,24,FALSE,1
+INP007,Microsoft Surface Pen Air-774,4,Microsoft Surface Pen (Air-774) for input devices,pcs,75.00,105.00,72,30,120,40,55,D1-07,Microsoft,Air-774,24,FALSE,1
+INP008,Wacom Drawing Tablet Elite-162,4,Wacom Drawing Tablet (Elite-162) for input devices,pcs,200.00,280.00,26,10,50,15,20,D1-08,Wacom,Elite-162,36,FALSE,1
+INP009,Apple Trackpad Ultra-611,4,Apple Trackpad (Ultra-611) for input devices,pcs,120.00,170.00,54,20,100,28,40,D1-09,Apple,Ultra-611,12,FALSE,1
+INP010,HP Wireless Keyboard Max-248,4,HP Wireless Keyboard (Max-248) for input devices,pcs,45.00,75.00,95,40,180,50,70,D1-10,HP,Max-248,24,FALSE,1
+PRN001,HP Laser Printer Pro-320,5,HP Laser Printer (Pro-320) for printers,pcs,210.00,300.00,28,10,60,15,25,E1-01,HP,Pro-320,24,TRUE,1
+PRN002,Canon Inkjet Printer Elite-420,5,Canon Inkjet Printer (Elite-420) for printers,pcs,150.00,220.00,32,12,70,18,26,E1-02,Canon,Elite-420,24,TRUE,1
+PRN003,Epson EcoTank Printer Air-530,5,Epson EcoTank Printer (Air-530) for printers,pcs,180.00,260.00,35,15,80,20,28,E1-03,Epson,Air-530,24,TRUE,1
+PRN004,Brother Laser Printer Max-145,5,Brother Laser Printer (Max-145) for printers,pcs,200.00,290.00,26,10,60,15,25,E1-04,Brother,Max-145,24,TRUE,1
+PRN005,HP DeskJet Printer Ultra-631,5,HP DeskJet Printer (Ultra-631) for printers,pcs,130.00,190.00,40,15,90,20,30,E1-05,HP,Ultra-631,12,TRUE,1
+PRN006,Canon Photo Printer Pro-284,5,Canon Photo Printer (Pro-284) for printers,pcs,220.00,310.00,24,8,50,12,20,E1-06,Canon,Pro-284,24,TRUE,1
+PRN007,Epson WorkForce Printer Elite-912,5,Epson WorkForce Printer (Elite-912) for printers,pcs,250.00,340.00,22,8,50,12,20,E1-07,Epson,Elite-912,24,TRUE,1
+PRN008,Brother Ink Tank Printer Air-301,5,Brother Ink Tank Printer (Air-301) for printers,pcs,180.00,260.00,38,15,80,20,28,E1-08,Brother,Air-301,24,TRUE,1
+PRN009,HP OfficeJet Printer Max-117,5,HP OfficeJet Printer (Max-117) for printers,pcs,160.00,230.00,42,18,90,25,35,E1-09,HP,Max-117,24,TRUE,1
+PRN010,Canon Compact Printer Ultra-846,5,Canon Compact Printer (Ultra-846) for printers,pcs,140.00,210.00,48,20,100,28,40,E1-10,Canon,Ultra-846,12,TRUE,1
+NET001,TP-Link WiFi Router Max-215,6,TP-Link WiFi Router (Max-215) for networking,pcs,50.00,85.00,65,25,120,35,50,F1-01,TP-Link,Max-215,24,FALSE,1
+NET002,Netgear Mesh Router Ultra-648,6,Netgear Mesh Router (Ultra-648) for networking,pcs,150.00,210.00,38,15,80,20,30,F1-02,Netgear,Ultra-648,24,FALSE,1
+NET003,Linksys Dual-Band Router Pro-954,6,Linksys Dual-Band Router (Pro-954) for networking,pcs,90.00,140.00,55,20,100,28,40,F1-03,Linksys,Pro-954,24,FALSE,1
+NET004,Asus Gaming Router Elite-202,6,Asus Gaming Router (Elite-202) for networking,pcs,180.00,250.00,30,10,60,15,25,F1-04,Asus,Elite-202,24,FALSE,1
+NET005,D-Link Wireless Router Air-411,6,D-Link Wireless Router (Air-411) for networking,pcs,70.00,110.00,50,20,100,28,38,F1-05,D-Link,Air-411,24,FALSE,1
+NET006,Ubiquiti Access Point Max-772,6,Ubiquiti Access Point (Max-772) for networking,pcs,120.00,180.00,42,15,90,22,32,F1-06,Ubiquiti,Max-772,24,FALSE,1
+NET007,TP-Link Range Extender Ultra-935,6,TP-Link Range Extender (Ultra-935) for networking,pcs,40.00,70.00,75,30,150,40,60,F1-07,TP-Link,Ultra-935,24,FALSE,1
+NET008,Netgear Switch Pro-184,6,Netgear Switch (Pro-184) for networking,pcs,60.00,95.00,65,25,120,35,50,F1-08,Netgear,Pro-184,24,FALSE,1
+NET009,Linksys Network Hub Elite-604,6,Linksys Network Hub (Elite-604) for networking,pcs,85.00,130.00,55,20,100,28,40,F1-09,Linksys,Elite-604,24,FALSE,1
+NET010,Asus Modem Router Max-381,6,Asus Modem Router (Max-381) for networking,pcs,130.00,190.00,35,15,80,20,30,F1-10,Asus,Max-381,24,FALSE,1
+CAM001,Canon DSLR Camera Pro-431,7,Canon DSLR Camera (Pro-431) for cameras,pcs,500.00,750.00,20,8,50,12,20,G1-01,Canon,Pro-431,24,TRUE,1
+CAM002,Nikon Mirrorless Camera Elite-683,7,Nikon Mirrorless Camera (Elite-683) for cameras,pcs,600.00,850.00,18,8,45,12,18,G1-02,Nikon,Elite-683,24,TRUE,1
+CAM003,Sony Compact Camera Air-390,7,Sony Compact Camera (Air-390) for cameras,pcs,300.00,450.00,25,10,60,15,25,G1-03,Sony,Air-390,12,TRUE,1
+CAM004,Fujifilm Instant Camera Ultra-892,7,Fujifilm Instant Camera (Ultra-892) for cameras,pcs,120.00,180.00,40,15,90,20,30,G1-04,Fujifilm,Ultra-892,12,TRUE,1
+CAM005,GoPro Action Camera Max-729,7,GoPro Action Camera (Max-729) for cameras,pcs,250.00,350.00,28,10,70,15,25,G1-05,GoPro,Max-729,12,TRUE,1
+CAM006,Canon Video Camera Pro-618,7,Canon Video Camera (Pro-618) for cameras,pcs,700.00,950.00,15,5,40,10,15,G1-06,Canon,Pro-618,24,TRUE,1
+CAM007,Nikon DSLR Camera Ultra-527,7,Nikon DSLR Camera (Ultra-527) for cameras,pcs,550.00,800.00,22,8,50,12,20,G1-07,Nikon,Ultra-527,24,TRUE,1
+CAM008,Sony Mirrorless Camera Elite-352,7,Sony Mirrorless Camera (Elite-352) for cameras,pcs,620.00,880.00,18,8,45,12,18,G1-08,Sony,Elite-352,24,TRUE,1
+CAM009,Fujifilm Compact Camera Air-874,7,Fujifilm Compact Camera (Air-874) for cameras,pcs,280.00,420.00,30,12,65,18,28,G1-09,Fujifilm,Air-874,12,TRUE,1
+CAM010,GoPro 360 Camera Max-925,7,GoPro 360 Camera (Max-925) for cameras,pcs,400.00,550.00,26,10,60,15,25,G1-10,GoPro,Max-925,12,TRUE,1
+STO001,Seagate External HDD 1TB Pro-128,8,Seagate External HDD 1TB (Pro-128) for storage,pcs,45.00,70.00,80,30,150,40,60,H1-01,Seagate,Pro-128,24,FALSE,1
+STO002,WD SSD 500GB Ultra-821,8,Western Digital SSD 500GB (Ultra-821) for storage,pcs,55.00,85.00,75,25,140,38,55,H1-02,WD,Ultra-821,36,FALSE,1
+STO003,Kingston USB Drive 64GB Max-611,8,Kingston USB Drive 64GB (Max-611) for storage,pcs,8.00,15.00,150,50,300,80,120,H1-03,Kingston,Max-611,12,FALSE,1
+STO004,SanDisk MicroSD 128GB Elite-389,8,SanDisk MicroSD 128GB (Elite-389) for storage,pcs,15.00,25.00,140,45,280,75,110,H1-04,SanDisk,Elite-389,12,FALSE,1
+STO005,Seagate Internal HDD 2TB Air-714,8,Seagate Internal HDD 2TB (Air-714) for storage,pcs,60.00,95.00,65,20,130,35,50,H1-05,Seagate,Air-714,24,FALSE,1
+STO006,WD External SSD 1TB Pro-501,8,Western Digital External SSD 1TB (Pro-501) for storage,pcs,110.00,160.00,50,18,110,28,45,H1-06,WD,Pro-501,36,FALSE,1
+STO007,Kingston NVMe SSD 2TB Ultra-690,8,Kingston NVMe SSD 2TB (Ultra-690) for storage,pcs,180.00,250.00,40,15,90,22,35,H1-07,Kingston,Ultra-690,36,FALSE,1
+STO008,SanDisk Extreme SSD 500GB Max-288,8,SanDisk Extreme SSD 500GB (Max-288) for storage,pcs,90.00,140.00,48,20,100,28,40,H1-08,SanDisk,Max-288,36,FALSE,1
+STO009,Seagate Backup Plus 4TB Elite-305,8,Seagate Backup Plus 4TB (Elite-305) for storage,pcs,120.00,180.00,35,12,80,18,28,H1-09,Seagate,Elite-305,36,FALSE,1
+STO010,WD Black SN850 1TB Air-194,8,Western Digital Black SN850 1TB (Air-194) for storage,pcs,150.00,210.00,30,10,70,15,25,H1-10,WD,Air-194,36,FALSE,1
+GAM001,PlayStation 5 Console Max-541,9,Sony PlayStation 5 Console (Max-541) for gaming,pcs,499.00,599.00,40,15,90,20,30,I1-01,Sony,Max-541,24,TRUE,1
+GAM002,Xbox Series X Ultra-783,9,Microsoft Xbox Series X (Ultra-783) for gaming,pcs,499.00,599.00,38,15,85,20,28,I1-02,Microsoft,Ultra-783,24,TRUE,1
+GAM003,Nintendo Switch OLED Pro-215,9,Nintendo Switch OLED (Pro-215) for gaming,pcs,349.00,399.00,50,20,110,25,35,I1-03,Nintendo,Pro-215,24,TRUE,1
+GAM004,Logitech G29 Racing Wheel Elite-698,9,Logitech G29 Racing Wheel (Elite-698) for gaming,pcs,299.00,349.00,30,12,70,18,28,I1-04,Logitech,Elite-698,24,TRUE,1
+GAM005,Razer Gaming Headset Air-882,9,Razer Gaming Headset (Air-882) for gaming,pcs,99.00,149.00,65,25,130,35,50,I1-05,Razer,Air-882,24,FALSE,1
+GAM006,SteelSeries Gaming Keyboard Max-572,9,SteelSeries Gaming Keyboard (Max-572) for gaming,pcs,129.00,179.00,55,20,110,28,45,I1-06,SteelSeries,Max-572,24,FALSE,1
+GAM007,HyperX Gaming Mouse Ultra-214,9,HyperX Gaming Mouse (Ultra-214) for gaming,pcs,59.00,89.00,70,28,140,40,60,I1-07,HyperX,Ultra-214,24,FALSE,1
+GAM008,Elgato Game Capture Pro-932,9,Elgato Game Capture (Pro-932) for gaming,pcs,149.00,199.00,35,12,80,18,28,I1-08,Elgato,Pro-932,24,FALSE,1
+GAM009,ASUS ROG Gaming Laptop Elite-492,9,ASUS ROG Gaming Laptop (Elite-492) for gaming,pcs,1499.00,1799.00,20,8,50,12,20,I1-09,ASUS,Elite-492,24,TRUE,1
+GAM010,Acer Predator Monitor Air-781,9,Acer Predator Gaming Monitor (Air-781) for gaming,pcs,899.00,1099.00,25,10,60,15,25,I1-10,Acer,Air-781,24,FALSE,1
+OFF001,HP Office Printer Max-635,10,HP Office Printer (Max-635) for office equipment,pcs,199.00,249.00,40,15,90,20,30,J1-01,HP,Max-635,24,TRUE,1
+OFF002,Canon All-in-One Printer Ultra-512,10,Canon All-in-One Printer (Ultra-512) for office equipment,pcs,179.00,229.00,45,18,95,22,32,J1-02,Canon,Ultra-512,24,TRUE,1
+OFF003,Brother Laser Printer Pro-421,10,Brother Laser Printer (Pro-421) for office equipment,pcs,159.00,209.00,35,12,80,18,28,J1-03,Brother,Pro-421,24,TRUE,1
+OFF004,Epson Ink Tank Printer Elite-333,10,Epson Ink Tank Printer (Elite-333) for office equipment,pcs,189.00,239.00,38,15,85,20,30,J1-04,Epson,Elite-333,24,TRUE,1
+OFF005,Logitech Conference Camera Air-722,10,Logitech Conference Camera (Air-722) for office equipment,pcs,249.00,299.00,28,10,70,15,25,J1-05,Logitech,Air-722,24,TRUE,1
+OFF006,Microsoft Ergonomic Keyboard Max-892,10,Microsoft Ergonomic Keyboard (Max-892) for office equipment,pcs,79.00,119.00,55,20,110,28,45,J1-06,Microsoft,Max-892,24,FALSE,1
+OFF007,Logitech Wireless Mouse Ultra-662,10,Logitech Wireless Mouse (Ultra-662) for office equipment,pcs,49.00,79.00,65,25,130,35,50,J1-07,Logitech,Ultra-662,24,FALSE,1
+OFF008,Staples Office Chair Pro-273,10,Staples Office Chair (Pro-273) for office equipment,pcs,149.00,199.00,60,25,140,38,55,J1-08,Staples,Pro-273,24,FALSE,1
+OFF009,Herman Miller Desk Elite-185,10,Herman Miller Desk (Elite-185) for office equipment,pcs,499.00,699.00,30,12,80,18,28,J1-09,Herman Miller,Elite-185,24,FALSE,1
+OFF010,Epson Projector Air-774,10,Epson Projector (Air-774) for office equipment,pcs,399.00,549.00,25,10,70,15,25,J1-10,Epson,Air-774,24,TRUE,1
+TOO001,Bosch Cordless Drill Max-258,11,Bosch Cordless Drill (Max-258) for tools,pcs,99.00,149.00,70,28,140,40,60,K1-01,Bosch,Max-258,24,TRUE,1
+TOO002,DeWalt Circular Saw Ultra-599,11,DeWalt Circular Saw (Ultra-599) for tools,pcs,129.00,179.00,65,25,130,35,50,K1-02,DeWalt,Ultra-599,24,TRUE,1
+TOO003,Black+Decker Heat Gun Pro-844,11,Black+Decker Heat Gun (Pro-844) for tools,pcs,49.00,79.00,80,30,160,45,70,K1-03,Black+Decker,Pro-844,24,TRUE,1
+TOO004,Stanley Tool Set Elite-712,11,Stanley Tool Set (Elite-712) for tools,pcs,79.00,119.00,75,28,150,40,65,K1-04,Stanley,Elite-712,24,TRUE,1
+TOO005,Milwaukee Impact Wrench Air-501,11,Milwaukee Impact Wrench (Air-501) for tools,pcs,149.00,199.00,60,25,130,35,50,K1-05,Milwaukee,Air-501,24,TRUE,1
+TOO006,Bosch Angle Grinder Max-220,11,Bosch Angle Grinder (Max-220) for tools,pcs,89.00,129.00,68,28,140,38,55,K1-06,Bosch,Max-220,24,TRUE,1
+TOO007,DeWalt Jigsaw Ultra-784,11,DeWalt Jigsaw (Ultra-784) for tools,pcs,99.00,149.00,64,25,130,35,50,K1-07,DeWalt,Ultra-784,24,TRUE,1
+TOO008,Black+Decker Electric Sander Pro-325,11,Black+Decker Electric Sander (Pro-325) for tools,pcs,79.00,119.00,72,28,145,40,60,K1-08,Black+Decker,Pro-325,24,TRUE,1
+TOO009,Stanley Measuring Tape Elite-915,11,Stanley Measuring Tape (Elite-915) for tools,pcs,15.00,25.00,150,50,300,80,120,K1-09,Stanley,Elite-915,12,FALSE,1
+TOO010,Milwaukee Power Tool Combo Air-672,11,Milwaukee Power Tool Combo (Air-672) for tools,pcs,299.00,399.00,50,20,110,28,45,K1-10,Milwaukee,Air-672,24,TRUE,1
+SPT001,Nike Running Shoes Max-412,12,Nike Running Shoes (Max-412) for sports equipment,pcs,79.00,129.00,80,30,160,45,70,L1-01,Nike,Max-412,12,FALSE,1
+SPT002,Adidas Soccer Ball Ultra-689,12,Adidas Soccer Ball (Ultra-689) for sports equipment,pcs,25.00,39.00,120,50,240,70,100,L1-02,Adidas,Ultra-689,12,FALSE,1
+SPT003,Puma Sports Jacket Pro-517,12,Puma Sports Jacket (Pro-517) for sports equipment,pcs,59.00,99.00,90,35,180,50,80,L1-03,Puma,Pro-517,12,FALSE,1
+SPT004,Wilson Tennis Racket Elite-354,12,Wilson Tennis Racket (Elite-354) for sports equipment,pcs,89.00,139.00,75,28,150,40,65,L1-04,Wilson,Elite-354,12,FALSE,1
+SPT005,Spalding Basketball Air-625,12,Spalding Basketball (Air-625) for sports equipment,pcs,29.00,45.00,110,45,220,65,95,L1-05,Spalding,Air-625,12,FALSE,1
+SPT006,Yonex Badminton Racket Max-282,12,Yonex Badminton Racket (Max-282) for sports equipment,pcs,49.00,79.00,85,35,170,50,80,L1-06,Yonex,Max-282,12,FALSE,1
+SPT007,Everlast Boxing Gloves Ultra-744,12,Everlast Boxing Gloves (Ultra-744) for sports equipment,pcs,39.00,65.00,95,40,190,55,90,L1-07,Everlast,Ultra-744,12,FALSE,1
+SPT008,Reebok Training Mat Pro-468,12,Reebok Training Mat (Pro-468) for sports equipment,pcs,25.00,40.00,105,45,210,60,100,L1-08,Reebok,Pro-468,12,FALSE,1
+SPT009,Under Armour Sports Bag Elite-879,12,Under Armour Sports Bag (Elite-879) for sports equipment,pcs,35.00,55.00,100,40,200,55,95,L1-09,Under Armour,Elite-879,12,FALSE,1
+SPT010,Nike Yoga Pants Air-391,12,Nike Yoga Pants (Air-391) for sports equipment,pcs,45.00,75.00,85,35,170,50,80,L1-10,Nike,Air-391,12,FALSE,1
+MUS001,Fender Acoustic Guitar Max-184,13,Fender Acoustic Guitar (Max-184) for musical instruments,pcs,149.00,199.00,50,20,110,28,45,M1-01,Fender,Max-184,24,FALSE,1
+MUS002,Yamaha Digital Piano Ultra-528,13,Yamaha Digital Piano (Ultra-528) for musical instruments,pcs,499.00,699.00,35,12,80,18,28,M1-02,Yamaha,Ultra-528,24,FALSE,1
+MUS003,Roland Electronic Drum Kit Pro-917,13,Roland Electronic Drum Kit (Pro-917) for musical instruments,pcs,799.00,999.00,28,10,65,15,25,M1-03,Roland,Pro-917,24,FALSE,1
+MUS004,Gibson Electric Guitar Elite-672,13,Gibson Electric Guitar (Elite-672) for musical instruments,pcs,899.00,1199.00,20,8,50,12,20,M1-04,Gibson,Elite-672,24,FALSE,1
+MUS005,Korg Synthesizer Air-322,13,Korg Synthesizer (Air-322) for musical instruments,pcs,599.00,799.00,25,10,60,15,25,M1-05,Korg,Air-322,24,FALSE,1
+MUS006,Shure Microphone Max-293,13,Shure Microphone (Max-293) for musical instruments,pcs,99.00,149.00,60,25,130,35,50,M1-06,Shure,Max-293,24,FALSE,1
+MUS007,AKG Studio Headphones Ultra-784,13,AKG Studio Headphones (Ultra-784) for musical instruments,pcs,129.00,179.00,55,20,120,30,45,M1-07,AKG,Ultra-784,24,FALSE,1
+MUS008,Boss Guitar Pedal Pro-665,13,Boss Guitar Pedal (Pro-665) for musical instruments,pcs,79.00,119.00,70,28,140,40,60,M1-08,Boss,Pro-665,24,FALSE,1
+MUS009,Yamaha Acoustic Drum Set Elite-812,13,Yamaha Acoustic Drum Set (Elite-812) for musical instruments,pcs,699.00,899.00,22,8,55,12,22,M1-09,Yamaha,Elite-812,24,FALSE,1
+MUS010,Fender Bass Guitar Air-523,13,Fender Bass Guitar (Air-523) for musical instruments,pcs,499.00,699.00,28,10,65,15,25,M1-10,Fender,Air-523,24,FALSE,1
+PET001,Pedigree Dog Food Max-621,14,Pedigree Dog Food (Max-621) for pet supplies,pcs,25.00,40.00,150,60,300,90,140,N1-01,Pedigree,Max-621,12,FALSE,1
+PET002,Whiskas Cat Food Ultra-354,14,Whiskas Cat Food (Ultra-354) for pet supplies,pcs,20.00,35.00,140,55,280,85,130,N1-02,Whiskas,Ultra-354,12,FALSE,1
+PET003,Petmate Dog Crate Pro-781,14,Petmate Dog Crate (Pro-781) for pet supplies,pcs,89.00,129.00,60,25,130,35,50,N1-03,Petmate,Pro-781,12,FALSE,1
+PET004,Kong Dog Toy Elite-498,14,Kong Dog Toy (Elite-498) for pet supplies,pcs,15.00,25.00,160,65,320,100,150,N1-04,Kong,Elite-498,12,FALSE,1
+PET005,Tetra Fish Tank Air-912,14,Tetra Fish Tank (Air-912) for pet supplies,pcs,59.00,89.00,70,30,140,45,70,N1-05,Tetra,Air-912,12,FALSE,1
+PET006,PetSafe Dog Collar Max-275,14,PetSafe Dog Collar (Max-275) for pet supplies,pcs,25.00,40.00,120,50,240,75,110,N1-06,PetSafe,Max-275,12,FALSE,1
+PET007,Hartz Cat Litter Ultra-652,14,Hartz Cat Litter (Ultra-652) for pet supplies,pcs,15.00,25.00,140,55,280,85,130,N1-07,Hartz,Ultra-652,12,FALSE,1
+PET008,Marina Aquarium Pro-213,14,Marina Aquarium (Pro-213) for pet supplies,pcs,79.00,119.00,65,28,140,40,60,N1-08,Marina,Pro-213,12,FALSE,1
+PET009,Blue Buffalo Dog Treats Elite-742,14,Blue Buffalo Dog Treats (Elite-742) for pet supplies,pcs,20.00,35.00,130,55,270,80,120,N1-09,Blue Buffalo,Elite-742,12,FALSE,1
+PET010,Zilla Reptile Terrarium Air-327,14,Zilla Reptile Terrarium (Air-327) for pet supplies,pcs,99.00,149.00,55,25,120,35,50,N1-10,Zilla,Air-327,12,FALSE,1
+TOY001,LEGO Building Set Max-589,15,LEGO Building Set (Max-589) for toys,pcs,49.00,79.00,100,40,200,55,95,O1-01,LEGO,Max-589,12,FALSE,1
+TOY002,Mattel Barbie Doll Ultra-384,15,Mattel Barbie Doll (Ultra-384) for toys,pcs,25.00,39.00,110,45,220,65,95,O1-02,Mattel,Ultra-384,12,FALSE,1
+TOY003,Hasbro Action Figure Pro-721,15,Hasbro Action Figure (Pro-721) for toys,pcs,19.00,29.00,120,50,240,70,100,O1-03,Hasbro,Pro-721,12,FALSE,1
+TOY004,Nerf Blaster Elite-416,15,Nerf Blaster (Elite-416) for toys,pcs,29.00,49.00,105,45,210,60,100,O1-04,Nerf,Elite-416,12,FALSE,1
+TOY005,Hot Wheels Car Set Air-643,15,Hot Wheels Car Set (Air-643) for toys,pcs,15.00,25.00,150,60,300,90,140,O1-05,Hot Wheels,Air-643,12,FALSE,1
+TOY006,Fisher-Price Playset Max-295,15,Fisher-Price Playset (Max-295) for toys,pcs,39.00,65.00,95,40,190,55,90,O1-06,Fisher-Price,Max-295,12,FALSE,1
+TOY007,Crayola Art Kit Ultra-529,15,Crayola Art Kit (Ultra-529) for toys,pcs,19.00,29.00,140,55,280,85,130,O1-07,Crayola,Ultra-529,12,FALSE,1
+TOY008,Play-Doh Set Pro-752,15,Play-Doh Set (Pro-752) for toys,pcs,15.00,25.00,160,65,320,100,150,O1-08,Play-Doh,Pro-752,12,FALSE,1
+TOY009,Melissa & Doug Puzzle Elite-193,15,Melissa & Doug Puzzle (Elite-193) for toys,pcs,12.00,19.00,170,70,340,105,160,O1-09,Melissa & Doug,Elite-193,12,FALSE,1
+TOY010,Disney Plush Toy Air-821,15,Disney Plush Toy (Air-821) for toys,pcs,19.00,29.00,140,55,280,85,130,O1-10,Disney,Air-821,12,FALSE,1
+ELEC001,Apple MacBook Pro 16",1,Apple MacBook Pro 16-inch with M2 chip,pcs,2499.00,2999.00,12,5,50,8,15,A1-01,Apple,MacBook Pro M2,12,TRUE,1
+ELEC001,MacBook Pro 16",1,Apple MacBook Pro 16-inch with M2 chip,pcs,2499.00,2999.00,12,5,50,8,15,A1-01,Apple,MacBook Pro M2,12,TRUE,1
+ELEC002,Dell XPS 13,1,Dell XPS 13 Ultra-thin laptop,pcs,899.00,1199.00,18,8,40,12,20,A1-02,Dell,XPS 13,24,TRUE,1
+ELEC003,HP EliteBook 840,1,Business laptop with security features,pcs,1200.00,1599.00,25,10,60,15,25,A1-03,HP,EliteBook 840 G9,36,TRUE,1
+ELEC004,iPad Pro 12.9",1,Apple iPad Pro with M2 chip,pcs,999.00,1299.00,30,15,80,20,30,A1-04,Apple,iPad Pro M2,12,TRUE,1
+ELEC005,Surface Pro 9,1,Microsoft Surface Pro 9 2-in-1,pcs,899.00,1199.00,22,10,50,15,25,A1-05,Microsoft,Surface Pro 9,12,TRUE,1
+ELEC006,Gaming Desktop RTX 4080,1,High-end gaming desktop with RTX 4080,pcs,1899.00,2499.00,8,3,20,5,10,A1-06,Custom Build,RTX 4080 Gaming,24,TRUE,1
+ELEC007,iMac 24" M2,1,Apple iMac 24-inch with M2 chip,pcs,1199.00,1599.00,15,5,30,8,15,A1-07,Apple,iMac M2 24",12,TRUE,1
+ELEC008,Chromebook Spin 713,1,Acer Chromebook with touchscreen,pcs,499.00,699.00,35,15,70,20,30,A1-08,Acer,Chromebook Spin 713,12,FALSE,1
+ELEC009,ThinkPad X1 Carbon,1,Lenovo ThinkPad X1 Carbon Gen 10,pcs,1399.00,1799.00,20,8,40,12,20,A1-09,Lenovo,ThinkPad X1 Carbon,36,TRUE,1
+ELEC010,Mac Mini M2,1,Apple Mac Mini with M2 chip,pcs,599.00,799.00,28,12,60,18,25,A1-10,Apple,Mac Mini M2,12,TRUE,1
+ELEC011,Samsung 32" 4K Monitor,1,Samsung 32-inch 4K UHD Monitor,pcs,299.00,449.00,45,20,100,25,40,B1-01,Samsung,UR59C,36,FALSE,1
+ELEC012,LG UltraWide 34",1,LG 34-inch UltraWide Monitor,pcs,449.00,599.00,32,15,60,20,30,B1-02,LG,34WN80C-B,24,FALSE,1
+ELEC013,Dell UltraSharp 27",1,Dell 27-inch 4K USB-C Monitor,pcs,399.00,549.00,38,18,70,22,35,B1-03,Dell,U2723QE,36,FALSE,1
+ELEC014,ASUS ROG Swift 27",1,ASUS 27-inch Gaming Monitor 165Hz,pcs,599.00,799.00,25,10,50,15,25,B1-04,ASUS,PG279QM,36,FALSE,1
+ELEC015,HP E24 G5 Monitor,1,HP 24-inch Business Monitor,pcs,149.00,229.00,60,30,120,40,50,B1-05,HP,E24 G5,36,FALSE,1
+ELEC016,BenQ PD3220U,1,BenQ 32-inch 4K Designer Monitor,pcs,999.00,1299.00,12,5,25,8,15,B1-06,BenQ,PD3220U,36,FALSE,1
+ELEC017,Acer Predator X27,1,Acer 27-inch 4K Gaming Monitor HDR,pcs,1499.00,1899.00,8,3,15,5,10,B1-07,Acer,Predator X27,36,FALSE,1
+ELEC018,ViewSonic VP2468,1,ViewSonic 24-inch Professional Monitor,pcs,199.00,299.00,42,20,80,25,35,B1-08,ViewSonic,VP2468,36,FALSE,1
+ELEC019,MSI Optix MAG274QRF,1,MSI 27-inch 165Hz Gaming Monitor,pcs,349.00,499.00,28,12,50,18,25,B1-09,MSI,Optix MAG274QRF,24,FALSE,1
+ELEC020,AOC 24G2 Gaming Monitor,1,AOC 24-inch 144Hz Gaming Monitor,pcs,159.00,229.00,55,25,100,30,45,B1-10,AOC,24G2,24,FALSE,1
+ELEC021,Sony WH-1000XM5,1,Sony Wireless Noise Canceling Headphones,pcs,299.00,399.00,75,30,150,40,60,C1-01,Sony,WH-1000XM5,24,FALSE,1
+ELEC022,Bose QuietComfort 45,1,Bose Wireless Noise Canceling Headphones,pcs,279.00,379.00,68,25,120,35,50,C1-02,Bose,QuietComfort 45,24,FALSE,1
+ELEC023,Apple AirPods Pro 2,1,Apple AirPods Pro with MagSafe Case,pcs,199.00,249.00,120,50,200,70,80,C1-03,Apple,AirPods Pro 2,12,FALSE,1
+ELEC024,Sennheiser HD 660 S,1,Sennheiser Open-Back Audiophile Headphones,pcs,399.00,549.00,25,10,40,15,20,C1-04,Sennheiser,HD 660 S,24,FALSE,1
+ELEC025,JBL Charge 5 Speaker,1,JBL Portable Bluetooth Speaker,pcs,129.00,179.00,85,40,150,50,70,C1-05,JBL,Charge 5,12,FALSE,1
+ELEC026,Logitech Blue Yeti,1,Logitech Blue Yeti USB Microphone,pcs,79.00,129.00,45,20,80,25,35,C1-06,Logitech,Blue Yeti,24,FALSE,1
+ELEC027,Audio-Technica ATH-M50x,1,Audio-Technica Professional Monitor Headphones,pcs,119.00,169.00,55,25,100,30,45,C1-07,Audio-Technica,ATH-M50x,24,FALSE,1
+ELEC028,Rode PodMic USB,1,Rode PodMic USB Broadcast Microphone,pcs,149.00,199.00,32,15,60,20,30,C1-08,Rode,PodMic USB,24,FALSE,1
+ELEC029,Yamaha HS5 Studio Monitor,1,Yamaha HS5 Active Studio Monitor,pcs,169.00,229.00,24,10,40,15,20,C1-09,Yamaha,HS5,36,FALSE,1
+ELEC030,Focusrite Scarlett Solo,1,Focusrite Scarlett Solo Audio Interface,pcs,89.00,129.00,38,18,70,22,32,C1-10,Focusrite,Scarlett Solo,24,FALSE,1
+ELEC031,Logitech MX Master 3S,1,Logitech MX Master 3S Wireless Mouse,pcs,79.00,109.00,95,40,180,50,70,D1-01,Logitech,MX Master 3S,24,FALSE,1
+ELEC032,Apple Magic Keyboard,1,Apple Magic Keyboard with Touch ID,pcs,149.00,199.00,65,25,120,35,50,D1-02,Apple,Magic Keyboard,12,FALSE,1
+ELEC033,Corsair K95 RGB Platinum,1,Corsair K95 RGB Platinum Mechanical Keyboard,pcs,159.00,219.00,42,18,80,25,35,D1-03,Corsair,K95 RGB Platinum,24,FALSE,1
+ELEC034,Razer DeathAdder V3,1,Razer DeathAdder V3 Gaming Mouse,pcs,69.00,99.00,88,35,150,45,65,D1-04,Razer,DeathAdder V3,24,FALSE,1
+ELEC035,SteelSeries Apex Pro,1,SteelSeries Apex Pro Mechanical Gaming Keyboard,pcs,179.00,249.00,28,12,50,18,25,D1-05,SteelSeries,Apex Pro,24,FALSE,1
+ELEC036,Logitech C920 HD Pro,1,Logitech C920 HD Pro Webcam,pcs,59.00,89.00,110,50,200,65,85,D1-06,Logitech,C920 HD Pro,24,FALSE,1
+ELEC037,Microsoft Surface Pen,1,Microsoft Surface Pen Digital Stylus,pcs,79.00,109.00,72,30,120,40,55,D1-07,Microsoft,Surface Pen,12,FALSE,1
+ELEC038,Elgato Stream Deck,1,Elgato Stream Deck MK.2 for streamers,pcs,149.00,199.00,40,15,70,20,30,D1-08,Elgato,Stream Deck MK.2,24,FALSE,1
+ELEC039,HyperX Cloud II Headset,1,HyperX Cloud II Gaming Head       

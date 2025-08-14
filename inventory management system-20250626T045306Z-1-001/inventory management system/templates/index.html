@@ -1,31 +1,133 @@
-{% extends "base.html" %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inventory • Items</title>
 
-{% block content %}
-<h1>Inventory</h1>
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th>ID</th>
-      <th>Name</th>
-      <th>Category</th>
-      <th>Quantity</th>
-      <th>Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for item in items %}
-    <tr>
-      <td>{{ item.id }}</td>
-      <td>{{ item.name }}</td>
-      <td>{{ item.category }}</td>
-      <td>{{ item.quantity }}</td>
-      <td>{{ '%.2f'|format(item.price) }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-{% if not items %}
-<p>No items found.</p>
-{% endif %}
-{% endblock %}
+  <!-- Fonts/Icons (optional) -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet"/>
 
+  <!-- Your stylesheet -->
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Sidebar -->
+    <nav class="sidebar">
+      <div class="sidebar-header">
+        <h1><i class="fas fa-cube"></i> INVENTORY</h1>
+      </div>
+      <div class="sidebar-nav">
+        <a class="nav-item active" href="{{ url_for('index') }}">
+          <i class="fas fa-boxes"></i> Inventory
+        </a>
+        <a class="nav-item" href="{{ url_for('add_item_form') }}">
+          <i class="fas fa-plus"></i> Add Item
+        </a>
+      </div>
+    </nav>
+
+    <!-- Main -->
+    <main class="main-content">
+      <header class="header">
+        <div class="search-container">
+          <i class="fas fa-search search-icon"></i>
+          <input id="global-search" class="search-input" placeholder="Search items…">
+        </div>
+        <div class="header-actions">
+          <a class="btn btn-primary" href="{{ url_for('add_item_form') }}">
+            <i class="fas fa-plus"></i> Add New Item
+          </a>
+        </div>
+      </header>
+
+      <div class="content">
+        <section class="content-section active" id="inventory">
+          <div class="card">
+            <div class="card-header" style="justify-content: space-between; display: flex;">
+              <h3 class="card-title">Inventory Items</h3>
+              <a class="btn btn-primary" href="{{ url_for('add_item_form') }}">
+                <i class="fas fa-plus"></i> Add New Item
+              </a>
+            </div>
+
+            <div class="table-container" style="margin-top: 20px;">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th>ID</th>
+                    <th>Item Name</th>
+                    <th>Category</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Status</th>
+                    <th style="width: 120px;">Actions</th>
+                  </tr>
+                </thead>
+                <tbody id="inventory-tbody">
+                  {% if items and items|length > 0 %}
+                    {% for item in items %}
+                      {% set qty = item.quantity if item.quantity is not none else 0 %}
+                      {% set status_class = 'status-in-stock' if qty > 10 else ('status-low-stock' if qty > 0 else 'status-out-stock') %}
+                      {% set status_text  = 'In Stock' if qty > 10 else ('Low Stock' if qty > 0 else 'Out of Stock') %}
+                      <tr data-row>
+                        <td>#{{ '%03d' % item.id }}</td>
+                        <td><strong>{{ item.name }}</strong></td>
+                        <td>{{ item.category }}</td>
+                        <td>{{ item.quantity }}</td>
+                        <td>₹{{ '{:,.2f}'.format(item.price) }}</td>
+                        <td><span class="status-badge {{ status_class }}">{{ status_text }}</span></td>
+                        <td>
+                          <button class="btn btn-danger" onclick="deleteItem({{ item.id }})">
+                            <i class="fas fa-trash"></i>
+                          </button>
+                        </td>
+                      </tr>
+                    {% endfor %}
+                  {% else %}
+                    <tr>
+                      <td colspan="7">
+                        <div class="empty-state">
+                          <i class="fas fa-box-open"></i>
+                          <h3>No Items Found</h3>
+                          <p>Start building your inventory by adding your first item.</p>
+                          <a class="btn btn-primary" href="{{ url_for('add_item_form') }}" style="margin-top: 20px;">
+                            <i class="fas fa-plus"></i> Add First Item
+                          </a>
+                        </div>
+                      </td>
+                    </tr>
+                  {% endif %}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+  </div>
+
+  <script>
+    // Client-side search filter
+    document.getElementById('global-search').addEventListener('input', function (e) {
+      const term = e.target.value.toLowerCase();
+      document.querySelectorAll('#inventory-tbody tr[data-row]').forEach(row => {
+        row.style.display = row.textContent.toLowerCase().includes(term) ? '' : 'none';
+      });
+    });
+
+    // Delete via API then reload
+    async function deleteItem(id) {
+      if (!confirm('Delete this item?')) return;
+      const res = await fetch(`/api/items/${id}`, { method: 'DELETE' });
+      if (res.ok) {
+        location.reload();
+      } else {
+        const err = await res.json().catch(() => ({}));
+        alert(err.message || err.error || 'Delete failed');
+      }
+    }
+  </script>
+</body>
+</html>

@@ -95,7 +95,7 @@ class InventoryDatabase:
         """Get inventory summary statistics"""
         with sqlite3.connect(self.db_path) as conn:
             stats = conn.execute('''
-                SELECT 
+                SELECT
                     COUNT(*) as total_items,
                     SUM(quantity) as total_quantity,
                     SUM(quantity * price) as total_value,
@@ -103,6 +103,24 @@ class InventoryDatabase:
                 FROM items
             ''').fetchone()
             return dict(zip(['total_items', 'total_quantity', 'total_value', 'total_categories'], stats))
+
+    def seed_from_csv(self, csv_path):
+        """Populate database with items from a CSV file if empty."""
+        if self.get_all_items():
+            return
+        with open(csv_path, newline='', encoding='utf-8') as csvfile:
+            reader = csv.DictReader(csvfile)
+            for row in reader:
+                try:
+                    self.create_item(
+                        name=row.get('Name', '').strip(),
+                        quantity=int(row.get('Quantity', 0)),
+                        price=float(row.get('Price', 0)),
+                        category=row.get('Category', '').strip(),
+                        description=row.get('Description', '').strip()
+                    )
+                except Exception as exc:
+                    print(f"Skipping row {row}: {exc}")
 
 class InventoryApp:
     def __init__(self, root):
